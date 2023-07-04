@@ -1,11 +1,11 @@
 export const metadata = {
-  title: "About Traversy Media",
+  title: "About Ethan's GitHub",
 }
 
 const AboutPage = () => {
   return (
     <div>
-      <h1>About Traversy Media</h1>
+      <h1>About Ethan's GitHub</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
         voluptatibus dolorem molestias deleniti ipsa nobis repudiandae harum a

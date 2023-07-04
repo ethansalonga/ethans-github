@@ -8,10 +8,10 @@ const poppins = Poppins({
 })
 
 export const metadata = {
-  title: "Traversy Media",
-  description: "Web developmnet tutorials and courses",
+  title: "Ethan's GitHub",
+  description: "I'm just a web developer",
   keywords:
-    "web development, web design, javascript, react, node, angular, vue, html, css",
+    "ethan salonga, ethan, salonga, github, web development, web design, javascript, typescript, react, html, css, tailwind, gatsby, next",
 }
 
 export default function RootLayout({ children }) {
